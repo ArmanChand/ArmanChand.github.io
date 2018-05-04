@@ -135,7 +135,7 @@ header .intro-text .skills {
 
 .contact .fa:before {
   display: inline-block;
-  opacity: 0.7;
+  /* opacity: 0.9; */
 }
 
 .contact li {
